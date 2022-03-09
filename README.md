@@ -2,7 +2,7 @@
 
 # loading-ring
 
-## A basic button animation
+## A loding animationion
 
 - Run it on your machine
 
